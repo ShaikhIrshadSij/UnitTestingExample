@@ -1,31 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Irshad\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample.csproj": {}
+    "D:\\Dilip\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample.csproj": {}
   },
   "projects": {
-    "E:\\Irshad\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample.csproj": {
+    "D:\\Dilip\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Irshad\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample.csproj",
+        "projectUniqueName": "D:\\Dilip\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample.csproj",
         "projectName": "UnitTestingExample",
-        "projectPath": "E:\\Irshad\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample.csproj",
-        "packagesPath": "C:\\Users\\SKC\\.nuget\\packages\\",
-        "outputPath": "E:\\Irshad\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample\\obj\\",
+        "projectPath": "D:\\Dilip\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample.csproj",
+        "packagesPath": "C:\\Users\\Dhiren\\.nuget\\packages\\",
+        "outputPath": "D:\\Dilip\\UnitTestingExample\\UnitTestingExample\\UnitTestingExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\SKC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Users\\Dhiren\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -88,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
